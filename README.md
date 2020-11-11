@@ -1,6 +1,6 @@
 # JS-Mini-Projects
+### This Repo is for learning Purposes
 - To-Do List
-
 You can see the live demo [here](https://htmlpreview.github.io/?https://github.com/hemang11/JS-Mini-Projects/blob/master/To-Do/index.html)
 ```javascipt
 To Run from PC
